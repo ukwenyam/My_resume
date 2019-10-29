@@ -14,10 +14,10 @@ This instruction set is described for individuals who have never used Github or 
 
 What things you need to install the software and how to install them
 
-* To begin, you'll need a markdown editor on your computer to edit your markdown file in.
+* To begin, you'll need a markdown editor on your computer to edit your resume in.
  *  A great example of a markdown editor is Atom.
 
-* An active github account
+* You'll also need a Github account.
 
 
 ### Installing
@@ -42,10 +42,27 @@ If you don't already have an active Github account, don't sweat it. These instru
 and then click on "Continue".
 * On the next page, you can go ahead and start a new Project by clicking "Start a Project".
 * There might be a message about verifying your email address. If you do get this message, go ahead and verify you email before proceeding with the remaining steps.
+* After verifying your email, proceed to start a new project.
 
-### instructions
+### Creating a repository
 
-Now
+After getting Your Github account up and running, you want to actually start getting stuff on there. One way to do this is by creating repositories and uploading files, Documents, Pictures whatever it is you would like to share on your Github.
+* Click on the little cat-like image on the top left corner (Github logo) ![github logo](http://github.com/ukwenyam/UkwenyaMichael.github.io/raw/master/Images/githublogo.png).
+* Select the 'New' button next to 'Repositories' to create a new repository.
+* Give your repository name which will be the name of the website you're trying to host on Github Pages.
+* Feel free to add a description of what the repository is created for
+* Next select the 'Initialize this repository with a README option'.
+![Initialize Readme](http://github.com/ukwenyam/UkwenyaMichael.github.io/raw/master/Images/initializeREADME.png)
+* Finally click on Create repository, and Github will get your repository up and running.
+If this is your first repository then
+ **Congratulations you just created your first Github repository**. If this is not your first repository, then **Way to go being productive!!**
+
+### Instructions
+
+Now you've downloaded and installed your markdown editor, and also created your first repository on your Github account.
+What you'll need now is to format your resume in markdown with the editor you just installed. Don't worry about formatting the document with a jekyll theme just yet, we'll handle that later.
+* Before you can upload your markdown file on Github, you will need to connect your Atom editor to your Github repository.
+* Head over to your Github page. Select the repository with the format 'username/repositoryname'. For me, my username is ukwenyam and my repositoryname is UkwenyaMichael.github.io, so my repository would be 'ukwenyam/UkwenyaMichael.github.io'
 
 Add additional notes about how to deploy this on a live system
 
