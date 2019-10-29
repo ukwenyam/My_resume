@@ -24,43 +24,28 @@ What things you need to install the software and how to install them
 
 Let's get things started by making sure we have all the software we'll to get this done.
 * First we need to install the Atom editor. If you don't already have it installed on your computer, begin by going to this link [Download Atom editor](http://www.atom.io)
-* Click on the  Download button to begin downloading Atom.![Download button](http://github.com/ukwenyam/UkwenyaMichael.github.io/raw/master/Images/Downloadbutton.png) The download should begin immediately.
-
+* Click on the  Download button to begin downloading Atom.
+![Download button](http://github.com/ukwenyam/UkwenyaMichael.github.io/raw/master/Images/Downloadbutton.png)
+* The download should begin immediately.
+* Click on the run button.
+* As the installation begins, click on the "next"  button until installation commences.
+* Click finish when it is complete. Congratulations, you now have atom installed on your computer.
 Say what the step will be
 
-```
-Give the example
-```
+### Getting Github setup
 
-And repeat
+If you don't already have an active Github account, don't sweat it. These instructions will guide you to setting up your Github account and creating the repository needed to host your website on Github Pages.
+* First head over to [github.com](http://www.github.com).
+* Just like signing up for a facebook profile, fill out the information needed to create an account and click on the "Sign up for Github" button
+* The following page talks about picking a personal plan for your account. The majority of your work on github you would want to be public. So select the unlimited  public repositories for free
+![Unlimited free](http://github.com/ukwenyam/UkwenyaMichael.github.io/raw/master/Images/freeRepos.png)
+and then click on "Continue".
+* On the next page, you can go ahead and start a new Project by clicking "Start a Project".
+* There might be a message about verifying your email address. If you do get this message, go ahead and verify you email before proceeding with the remaining steps.
 
-```
-until finished
-```
+### instructions
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
+Now
 
 Add additional notes about how to deploy this on a live system
 
