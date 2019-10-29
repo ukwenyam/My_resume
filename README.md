@@ -1,37 +1,95 @@
-## Welcome to GitHub Pages
+# Project Title
 
-You can use the [editor on GitHub](https://github.com/ukwenyam/My_resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+How to host your jekyll themed resume on Github Pages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Getting Started
 
-### Markdown
+These set of instructions will give you a step by step process of successfully hosting a Resume website styled with a Github jekyll theme, and hosted on Github pages.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Description of Intended Audience
 
-```markdown
-Syntax highlighted code block
+This instruction set is described for individuals who have never used Github or Github Pages before. You do not need to know a whole lot about Github or Jekyll to get this working.
 
-# Header 1
-## Header 2
-### Header 3
+### Prerequisites
 
-- Bulleted
-- List
+What things you need to install the software and how to install them
 
-1. Numbered
-2. List
+* To begin, you'll need a markdown editor on your computer to edit your markdown file in.
+ *  A great example of a markdown editor is Atom.
 
-**Bold** and _Italic_ and `Code` text
+* An active github account
 
-[Link](url) and ![Image](src)
+
+### Installing
+
+Let's get things started by making sure we have all the software we'll to get this done.
+* First we need to install the Atom editor. If you don't already have it installed on your computer, begin by going to this link [Download Atom editor](http://www.atom.io)
+* Click on the ![Download button](http://github.com/ukwenya/My_resume/Images/Downloadbutton.png) Download button to begin downloading Atom.
+
+Say what the step will be
+
+```
+Give the example
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+And repeat
 
-### Jekyll Themes
+```
+until finished
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ukwenyam/My_resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+End with an example of getting some data out of the system or using it for a little demo
 
-### Support or Contact
+## Running the tests
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
