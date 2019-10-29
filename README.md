@@ -24,7 +24,7 @@ What things you need to install the software and how to install them
 
 Let's get things started by making sure we have all the software we'll to get this done.
 * First we need to install the Atom editor. If you don't already have it installed on your computer, begin by going to this link [Download Atom editor](http://www.atom.io)
-* Click on the ![Download button](http://github.com/ukwenya/My_resume/Images/Downloadbutton.png) Download button to begin downloading Atom.
+* Click on the ![Download button](http://github.com/ukwenyam/UkwenyaMichael.github.io/Images/Downloadbutton.png) Download button to begin downloading Atom.
 
 Say what the step will be
 
