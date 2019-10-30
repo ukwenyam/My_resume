@@ -11,7 +11,7 @@ Artificial Intelligence.
 * COMP3380 (Databases Concepts and Usage).  
 
 ### __Projects__
-#### ACADEMIC:
+#### ACADEMIC:   
 #### GROUP PAYMENT APP
 Human Computer Interaction Course
 * Group payment application that allows for easy bill splitting among individuals when paying together at a restaurant or store. Worked in a small group of four students in which clear communication was strongly upheld. Uses HTML, CSS, JavaScript, and Bootstrap.  
