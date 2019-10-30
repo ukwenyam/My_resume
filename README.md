@@ -8,15 +8,15 @@ These set of instructions will give you a step by step process of successfully h
 [Prerequisites](https://github.com/ukwenyam/UkwenyaMichael.github.io#prerequisites).  
 [Installation](https://github.com/ukwenyam/UkwenyaMichael.github.io/blob/master/README.md#installing).  
 [Getting Github Setup](https://github.com/ukwenyam/UkwenyaMichael.github.io/blob/master/README.md#getting-github-setup).  
-[Creating a repository](https://github.com/ukwenyam/UkwenyaMichael.github.io/blob/master/README.md#creating-a-repository).
-[Instructions for hosting on Github Pages](https://github.com/ukwenyam/UkwenyaMichael.github.io/blob/master/README.md#instructions-for-hosting-website-on-github-pages) 
+[Creating a repository](https://github.com/ukwenyam/UkwenyaMichael.github.io/blob/master/README.md#creating-a-repository).  
+[Instructions for hosting on Github Pages](https://github.com/ukwenyam/UkwenyaMichael.github.io/blob/master/README.md#instructions-for-hosting-website-on-github-pages)
 
 
-Click on this link see an example [jekyll themed resume hosted on Github Pages.](https://ukwenyam.github.io/UkwenyaMichael.github.io/)
+Click on this link see an example of a [jekyll themed resume hosted on Github Pages.](https://ukwenyam.github.io/UkwenyaMichael.github.io/)
 
 ### Description of Intended Audience
 
-This instruction set is described for individuals who have never used Github or Github Pages before. You do not need to know a whole lot about Github or Jekyll to get this working.
+This instruction set is described for individuals who have little to no experience with Github, some experience using an editor such as Atom, no experience using jekyll. You do not need to know a whole lot about Github or Jekyll to get this working.
 
 ### Prerequisites
 
@@ -24,6 +24,7 @@ What things you need to install the software and how to install them
 
 * To begin, you'll need a markdown editor on your computer to edit your resume in.
  *  A great example of a markdown editor is Atom.
+* You'll also need a resume edited in markdown, you will need some experience in markdown to edit your resume in markdown. [Click here](https://www.markdowntutorial.com/) for a quick tutorial to get you equiped with all the markdown skills you would need for the purpose of this project.
 
 * You'll also need a Github account.
 
@@ -62,18 +63,44 @@ After getting Your Github account up and running, you want to actually start get
 * Feel free to add a description of what the repository is created for
 * Next select the 'Initialize this repository with a README option'.  
 ![Initialize Readme](https://i.imgur.com/su6EGZe.png)  
-* Finally click on Create repository, and Github will get your repository up and running.
+* Next click on Create repository, and Github will get your repository up and running.
 If this is your first repository then
- **Congratulations you just created your first Github repository**. If this is not your first repository, then **Way to go being productive!!**
+ **Congratulations you just created your first Github repository**. If this is not your first repository, then **Way to go being productive!!**  
+ * Finally you want to connect your Github repository to your Atom editor. Essentially what you'll be doing in this step is cloning you repository.
+
+### Cloning your repository in Atom.  
+* In your editor, press the **ctrl + shift + p** buttons on a PC and **cmd + shift + p** buttons on a Mac. It should open a terminal that looks like this.  
+![ctrlp](https://i.imgur.com/Lcx5oFm.png)  
+* Type in 'github clone'
+![clone](https://i.imgur.com/h51HPRP.gif)  
+* In order to get the clone URL, head over to your repository on Github and select the clone or download button, and click on the clipboard icon to copy your repository link to the clipboard.   
+![](https://i.imgur.com/Cs2zAj0.gif)  
+* Head back to your editor and paste the link on the text field and click on clone  
+![](https://i.imgur.com/6ThNCME.gif)
+* Net head over to this URL[github.atom.io/login](http://www.github.atom.io/login) to get the token you would need to authorize Github on Atom.
+* Copy the link from the webpage and head back to your editor. press the **ctrl + shift + 9** for PC and **cmd + shift + 9** for Mac to open the git tab. Paste the token copied from the webpage into the token field and hit enter.
+* Congratulations you just successfully added git to your Atom editor.  
+
+Now let's get started!
 
 ### Instructions for hosting website on Github Pages
 
-Now you've downloaded and installed your markdown editor, and also created your first repository on your Github account.
-What you'll need now is to format your resume in markdown with the editor you just installed. Don't worry about formatting the document with a jekyll theme just yet, we'll handle that later.
-* Before you can upload your markdown file on Github, you will need to connect your Atom editor to your Github repository.
-* Head over to your Github page. Select the repository with the format 'username/repositoryname'. For me, my username is ukwenyam and my repositoryname is UkwenyaMichael.github.io, so my repository would be 'ukwenyam/UkwenyaMichael.github.io'
+What you'll need now is to format your resume in markdown with the Atom. Don't worry about formatting the document with a jekyll theme just yet, we'll handle that later.
+1. After editing the resume in markdown, save it as index.md.  
+2. Open whatever folder you have index.md saved in, and drag and drop the index.md file to your Github repository.  
+![](https://i.imgur.com/oeRpBN8.gif)  
+3. To officially add the changes to your github, head over to the git tab on the lower right corner of the screen.  
+![](https://i.imgur.com/MjhxoZQ.png)  
+4. Click on the stage all button, then add a commit message to tell you what you updated later, click on commit to master, and then click push.  
+![](https://i.imgur.com/D7Uft65.gif)  
+This step is what you would use when updating things on your editor and pushing the changes to your repository on Github.
+5. Now on your GitHub repository on github.com, the file index.md should be available. To change the theme of your resume, click on settings and look for the 'change theme' button at the bottom of the settings page. Github gives you a hand full of themes to work with, but you can always find more from other sources. select on of the themes and click the 'select theme' button.
+6. Rename the repository to whatever you want your resume website to be called, and then add '.github.io' to the end.  
+![](https://i.imgur.com/1lQwjZ9.gif)  
+7. Scroll down to the buttom of the page until you see a link that looks like this:  
+![](https://i.imgur.com/J5BzRnD.png).  
+If the link doesn't have a green check mark on the side, just reload the page and it should be checked. That is the link that was generated and hosted by Github Pages to your resume website.
 
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
