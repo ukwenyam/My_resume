@@ -5,7 +5,11 @@ How to host your jekyll themed resume on Github Pages.
 ## Getting Started
 
 These set of instructions will give you a step by step process of successfully hosting a Resume website styled with a Github jekyll theme, and hosted on Github pages. These instructions will take you through the following steps:  
-[Prerequisites](https://github.com/ukwenyam/UkwenyaMichael.github.io#prerequisites)  
+[Prerequisites](https://github.com/ukwenyam/UkwenyaMichael.github.io#prerequisites).  
+[Installation](https://github.com/ukwenyam/UkwenyaMichael.github.io/blob/master/README.md#installing).  
+[Getting Github Setup](https://github.com/ukwenyam/UkwenyaMichael.github.io/blob/master/README.md#getting-github-setup).  
+[Creating a repository](https://github.com/ukwenyam/UkwenyaMichael.github.io/blob/master/README.md#creating-a-repository).
+[Instructions for hosting on Github Pages](https://github.com/ukwenyam/UkwenyaMichael.github.io/blob/master/README.md#instructions-for-hosting-website-on-github-pages) 
 
 
 Click on this link see an example [jekyll themed resume hosted on Github Pages.](https://ukwenyam.github.io/UkwenyaMichael.github.io/)
@@ -28,8 +32,8 @@ What things you need to install the software and how to install them
 
 Let's get things started by making sure we have all the software we'll to get this done.
 * First we need to install the Atom editor. If you don't already have it installed on your computer, begin by going to this link [Download Atom editor](http://www.atom.io)
-* Click on the  Download button to begin downloading Atom.
-![Download button](https://i.imgur.com/XWrGOOC.png)
+* Click on the  Download button to begin downloading Atom.  
+![Download button](https://i.imgur.com/XWrGOOC.png)  
 * The download should begin immediately.
 * Click on the run button.
 * As the installation begins, click on the "next"  button until installation commences.
@@ -41,8 +45,8 @@ Say what the step will be
 If you don't already have an active Github account, don't sweat it. These instructions will guide you to setting up your Github account and creating the repository needed to host your website on Github Pages.
 * First head over to [github.com](http://www.github.com).
 * Just like signing up for a facebook profile, fill out the information needed to create an account and click on the "Sign up for Github" button
-* The following page talks about picking a personal plan for your account. The majority of your work on github you would want to be public. So select the unlimited  public repositories for free
-![Unlimited free](https://i.imgur.com/TcRiuJh.png)
+* The following page talks about picking a personal plan for your account. The majority of your work on github you would want to be public. So select the unlimited  public repositories for free  
+![Unlimited free](https://i.imgur.com/TcRiuJh.png)  
 and then click on "Continue".
 * On the next page, you can go ahead and start a new Project by clicking "Start a Project".
 * There might be a message about verifying your email address. If you do get this message, go ahead and verify you email before proceeding with the remaining steps.
@@ -51,17 +55,18 @@ and then click on "Continue".
 ### Creating a repository
 
 After getting Your Github account up and running, you want to actually start getting stuff on there. One way to do this is by creating repositories and uploading files, Documents, Pictures whatever it is you would like to share on your Github.
-* Click on the little cat-like image on the top left corner (Github logo) ![github logo](https://i.imgur.com/8gYpkGw.png).
+* Click on the little cat-like image on the top left corner (Github logo).    
+  ![github logo](https://i.imgur.com/8gYpkGw.png)    
 * Select the 'New' button next to 'Repositories' to create a new repository.
 * Give your repository name which will be the name of the website you're trying to host on Github Pages.
 * Feel free to add a description of what the repository is created for
-* Next select the 'Initialize this repository with a README option'.
-![Initialize Readme](https://i.imgur.com/su6EGZe.png)
+* Next select the 'Initialize this repository with a README option'.  
+![Initialize Readme](https://i.imgur.com/su6EGZe.png)  
 * Finally click on Create repository, and Github will get your repository up and running.
 If this is your first repository then
  **Congratulations you just created your first Github repository**. If this is not your first repository, then **Way to go being productive!!**
 
-### Instructions
+### Instructions for hosting website on Github Pages
 
 Now you've downloaded and installed your markdown editor, and also created your first repository on your Github account.
 What you'll need now is to format your resume in markdown with the editor you just installed. Don't worry about formatting the document with a jekyll theme just yet, we'll handle that later.
