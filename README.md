@@ -113,8 +113,9 @@ Now that you have successfully pushed your index.md file, the next step is to st
 ![](https://i.imgur.com/1lQwjZ9.gif)  
 3. Scroll down to the buttom of the page until you see a link that looks like this:  
 ![](https://i.imgur.com/J5BzRnD.png).  
-If the link doesn't have a green check mark on the side, just reload the page and it should be checked. That is the link that was generated and hosted by Github Pages to your resume website.
+If the link doesn't have a green check mark on the side, just reload the page and it should be checked. That is the link that was generated and hosted by Github Pages to your resume website.  
 
+**Congratulations, you have just successfully hostes your first website on Github Pages. Give yourself a hand you deserve it!**
 
 ### More Resources  
 You can always find more jekyll themes to work with. Some themes have prerequisites that will be stated in their README file, so take a look at those and see their descriptions. Some themes even have a preview you can look at to get a feel of what it's like.  
