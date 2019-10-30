@@ -4,7 +4,11 @@ How to host your jekyll themed resume on Github Pages.
 
 ## Getting Started
 
-These set of instructions will give you a step by step process of successfully hosting a Resume website styled with a Github jekyll theme, and hosted on Github pages.
+These set of instructions will give you a step by step process of successfully hosting a Resume website styled with a Github jekyll theme, and hosted on Github pages. These instructions will take you through the following steps:  
+[Prerequisites](https://github.com/ukwenyam/UkwenyaMichael.github.io#prerequisites)  
+
+
+Click on this link see an example [jekyll themed resume hosted on Github Pages.](https://ukwenyam.github.io/UkwenyaMichael.github.io/)
 
 ### Description of Intended Audience
 
@@ -47,7 +51,7 @@ and then click on "Continue".
 ### Creating a repository
 
 After getting Your Github account up and running, you want to actually start getting stuff on there. One way to do this is by creating repositories and uploading files, Documents, Pictures whatever it is you would like to share on your Github.
-* Click on the little cat-like image on the top left corner (Github logo) ![github logo](http://github.com/ukwenyam/UkwenyaMichael.github.io/raw/master/Images/githublogo.png).
+* Click on the little cat-like image on the top left corner (Github logo) ![github logo](https://i.imgur.com/lmCWsOw.jpg).
 * Select the 'New' button next to 'Repositories' to create a new repository.
 * Give your repository name which will be the name of the website you're trying to host on Github Pages.
 * Feel free to add a description of what the repository is created for
