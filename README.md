@@ -130,6 +130,7 @@ Heres a [link](https://rubygems.org/search?utf8=%E2%9C%93&query=jekyll+themes) w
 
 ### FAQs
 Q. Do i need an existing GitHub repository to connect to Atom  
-A. No, you don't need to have an existing repository. Atom allows you create a new repository which you can upload your files to. Check out [this](https://www.youtube.com/watch?v=KA9xvKQXXzQ) video on how to do this.
+A. No, you don't need to have an existing repository. Atom allows you create a new repository which you can upload your files to. Check out [this](https://www.youtube.com/watch?v=KA9xvKQXXzQ) video on how to do this.  
+
 Q. Can i customize the jekyll theme?
 A. Yes you can. Github allows you add your own CSS code to the themes so you can add whatever you want to it. Check out [this](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-css) file that descrives how this can be done.
