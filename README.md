@@ -71,7 +71,7 @@ If this is your first repository then
 ### Cloning your repository in Atom.  
 * In your editor, press the **ctrl + shift + p** buttons on a PC and **cmd + shift + p** buttons on a Mac. It should open a terminal that looks like this.  
 ![ctrlp](https://i.imgur.com/Lcx5oFm.png)  
-* Type in 'github clone'
+* Type in 'github clone'  
 ![clone](https://i.imgur.com/h51HPRP.gif)  
 * In order to get the clone URL, head over to your repository on Github and select the clone or download button, and click on the clipboard icon to copy your repository link to the clipboard.   
 ![](https://i.imgur.com/Cs2zAj0.gif)  
@@ -86,18 +86,21 @@ Now let's get started!
 ### Instructions for hosting website on Github Pages
 
 What you'll need now is to format your resume in markdown with the Atom. Don't worry about formatting the document with a jekyll theme just yet, we'll handle that later.
+### Getting markedup resume into GitHub  
 1. After editing the resume in markdown, save it as index.md.  
 2. Open whatever folder you have index.md saved in, and drag and drop the index.md file to your Github repository.  
 ![](https://i.imgur.com/oeRpBN8.gif)  
-3. To officially add the changes to your github, head over to the git tab on the lower right corner of the screen.  
+### Pushing changes to Github repository
+1. To officially add the changes to your github, head over to the git tab on the lower right corner of the screen.  
 ![](https://i.imgur.com/MjhxoZQ.png)  
-4. Click on the stage all button, then add a commit message to tell you what you updated later, click on commit to master, and then click push.  
+2. Click on the stage all button, then add a commit message to tell you what you updated later, click on commit to master, and then click push.  
 ![](https://i.imgur.com/D7Uft65.gif)  
 This step is what you would use when updating things on your editor and pushing the changes to your repository on Github.
-5. Now on your GitHub repository on github.com, the file index.md should be available. To change the theme of your resume, click on settings and look for the 'change theme' button at the bottom of the settings page. Github gives you a hand full of themes to work with, but you can always find more from other sources. select on of the themes and click the 'select theme' button.
-6. Rename the repository to whatever you want your resume website to be called, and then add '.github.io' to the end.  
+### Adding jekyll theme and hosting webpage
+1. Now on your GitHub repository on github.com, the file index.md should be available. To change the theme of your resume, click on settings and look for the 'change theme' button at the bottom of the settings page. Github gives you a hand full of themes to work with, but you can always find more from other sources. select on of the themes and click the 'select theme' button.
+2. Rename the repository to whatever you want your resume website to be called, and then add '.github.io' to the end.  
 ![](https://i.imgur.com/1lQwjZ9.gif)  
-7. Scroll down to the buttom of the page until you see a link that looks like this:  
+3. Scroll down to the buttom of the page until you see a link that looks like this:  
 ![](https://i.imgur.com/J5BzRnD.png).  
 If the link doesn't have a green check mark on the side, just reload the page and it should be checked. That is the link that was generated and hosted by Github Pages to your resume website.
 
