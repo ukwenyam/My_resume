@@ -29,7 +29,7 @@ What things you need to install the software and how to install them
 Let's get things started by making sure we have all the software we'll to get this done.
 * First we need to install the Atom editor. If you don't already have it installed on your computer, begin by going to this link [Download Atom editor](http://www.atom.io)
 * Click on the  Download button to begin downloading Atom.
-![Download button](http://github.com/ukwenyam/UkwenyaMichael.github.io/raw/master/Images/Downloadbutton.png)
+![Download button](https://i.imgur.com/XWrGOOC.png)
 * The download should begin immediately.
 * Click on the run button.
 * As the installation begins, click on the "next"  button until installation commences.
@@ -42,7 +42,7 @@ If you don't already have an active Github account, don't sweat it. These instru
 * First head over to [github.com](http://www.github.com).
 * Just like signing up for a facebook profile, fill out the information needed to create an account and click on the "Sign up for Github" button
 * The following page talks about picking a personal plan for your account. The majority of your work on github you would want to be public. So select the unlimited  public repositories for free
-![Unlimited free](http://github.com/ukwenyam/UkwenyaMichael.github.io/raw/master/Images/freeRepos.png)
+![Unlimited free](https://i.imgur.com/TcRiuJh.png)
 and then click on "Continue".
 * On the next page, you can go ahead and start a new Project by clicking "Start a Project".
 * There might be a message about verifying your email address. If you do get this message, go ahead and verify you email before proceeding with the remaining steps.
@@ -51,12 +51,12 @@ and then click on "Continue".
 ### Creating a repository
 
 After getting Your Github account up and running, you want to actually start getting stuff on there. One way to do this is by creating repositories and uploading files, Documents, Pictures whatever it is you would like to share on your Github.
-* Click on the little cat-like image on the top left corner (Github logo) ![github logo](https://i.imgur.com/lmCWsOw.jpg).
+* Click on the little cat-like image on the top left corner (Github logo) ![github logo](https://i.imgur.com/8gYpkGw.png).
 * Select the 'New' button next to 'Repositories' to create a new repository.
 * Give your repository name which will be the name of the website you're trying to host on Github Pages.
 * Feel free to add a description of what the repository is created for
 * Next select the 'Initialize this repository with a README option'.
-![Initialize Readme](http://github.com/ukwenyam/UkwenyaMichael.github.io/raw/master/Images/initializeREADME.png)
+![Initialize Readme](https://i.imgur.com/su6EGZe.png)
 * Finally click on Create repository, and Github will get your repository up and running.
 If this is your first repository then
  **Congratulations you just created your first Github repository**. If this is not your first repository, then **Way to go being productive!!**
